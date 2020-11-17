@@ -14,7 +14,7 @@
   ---
   License and copyright
   
-  ©Moldovan Dragos Andrei, Bunea Gabriel Petru Liceul Teoretic "Petru Maior"  (LPM)
+  ©Moldovan Dragos Andrei, Bunea Gabriel Petru, Liceul Teoretic "Petru Maior"  (LPM)
   ---
   
   
