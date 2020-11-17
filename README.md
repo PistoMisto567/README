@@ -14,6 +14,6 @@
   ---
   ##License and copyright
   
-  ©Moldovan Dragos Andrei, Bunea Gabriel Petru from "petru Maior" HighSchool (LPM)
+  ©Moldovan Dragos Andrei, Bunea Gabriel Petru from "Petru Maior" HighSchool (LPM)
   ---
   
